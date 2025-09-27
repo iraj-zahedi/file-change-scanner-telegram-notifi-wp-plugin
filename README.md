@@ -1,6 +1,9 @@
 # file-change-scanner-telegram-notifi-wp-plugin
 این ابزار تغییرات فایل‌های وب‌سایت خود را به صورت خودکار نظارت میکند و هشدارهای فوری در تلگرام ارسال میکند. این افزونه مناسب جلوگیری از تزریق بدافزار و هک و نفوذ به سایت، توسط بدافزار ها است.
 
+[اسکرین شات 1](https://raw.githubusercontent.com/iraj-zahedi/file-change-scanner-telegram-notifi-wp-plugin/refs/heads/main/file-change-scanner-telegram-notifi-wp-plugin.png)
+[اسکرین شات 2](https://raw.githubusercontent.com/iraj-zahedi/file-change-scanner-telegram-notifi-wp-plugin/refs/heads/main/file-change-scanner-telegram-notifi-wp-plugin2.png)
+
 ---
 ### نسخه فارسی (Persian Version)
 
