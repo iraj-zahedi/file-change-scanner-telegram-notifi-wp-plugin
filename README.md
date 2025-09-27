@@ -4,7 +4,10 @@
 [اسکرین شات 1](https://raw.githubusercontent.com/iraj-zahedi/file-change-scanner-telegram-notifi-wp-plugin/refs/heads/main/file-change-scanner-telegram-notifi-wp-plugin.png)
 [اسکرین شات 2](https://raw.githubusercontent.com/iraj-zahedi/file-change-scanner-telegram-notifi-wp-plugin/refs/heads/main/file-change-scanner-telegram-notifi-wp-plugin2.png)
 
+[**Download the latest version**](https://github.com/iraj-zahedi/file-change-scanner-telegram-notifi-wp-plugin/archive/refs/heads/main.zip)
+
 ---
+
 ### نسخه فارسی (Persian Version)
 
 #### **توضیحات کوتاه**
