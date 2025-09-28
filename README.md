@@ -6,7 +6,9 @@
 
 [**Download the latest version**](https://github.com/iraj-zahedi/file-change-scanner-telegram-notifi-wp-plugin/archive/refs/heads/main.zip)
 
-[**افزونه File Change Scanner، نگهبان امنیتی تغییر فایل‌های وردپرس با هشدار تلگرام**](https://blueserver.ir/blueserver-file-change-scanner-telegram-notifi-wp-plugin)
+[افزونه File Change Scanner، نگهبان امنیتی تغییر فایل‌های وردپرس با هشدار تلگرام](https://blueserver.ir/blueserver-file-change-scanner-telegram-notifi-wp-plugin)
+
+
 ---
 
 ### نسخه فارسی (Persian Version)
